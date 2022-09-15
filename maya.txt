@@ -1,0 +1,6 @@
+1. Membuat variabel "menu","jumlah", "total_bayar"
+2. inisialisasi variabel
+3. Menampilkan daftar menu dan harga
+4. Memilih menu dan menyimpan pada variabel menu
+5. Menginput jumlah pesanan dan menyimpan pada variabel jumlah
+6. Pengondisian jika memilih menu1 * jumlah disimpan

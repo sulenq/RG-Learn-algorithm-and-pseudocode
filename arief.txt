@@ -1,0 +1,11 @@
+Shopping cart 
+Membuat variabel item untuk nama barang yang akan dipilih dengan tipe data string
+Membuat variabel price untuk harga barang yang akan dipilih per satu item nya, dengan tipe data number.
+Membuat variabel quantity untuk jumlah barang yang akan dipilih
+Membuat variabel total untuk menampung hasil dari penjumlahan dan perkalian barang dengan tipe data number.
+(optional) Membuat variabel diskon untuk menampung diskon yang didapatkan pengguna dengan tipe data number.
+Sistem menampilkan seluruh barang / item yang ada di halaman shopping.
+Ketika barang dipilih akan menampilkan item dan price, kemudian akan ada tombol '+' yang ketika di klik variabel quantity akan bertambah (quantity + 1) sesuai dengan jumlah penekanan pada tombol '+', angkanya dimulai dari 1.
+Terdapat tombol hitung yang ketika di klik akan menghitung price * quantity yang hasil dari perkalian tersebut akan disimpan di dalam variabel total.
+Terdapat tombol '-' yang jika di klik maka variabel quantity akan berkurang (quantity - 1). namun, terdapat kondisi yang dimana ketika quantity < 1 maka quantity akan tetap bernilai 1 
+Terdapat tombol hapus untuk menghapus item yang dipilih, ketika di klik akan mengurangi price * quantity dari item yang dipilih

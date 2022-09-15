@@ -1,0 +1,11 @@
+kasir
+
+1. membuat variabel 'list' untuk menampung array barang yang tersedia
+2. membuat variabel 'listCo' untuk menampung data yang dicheckout
+3. membuat condition harga sesuai value yang ada dalam 'list' dan menyimpan pada 'lisCo'
+4. membuat variabel 'total' untuk menampung total penjumlahan 
+5. membuat algoritma penjumlahan total barang dengan kuantitas barangnya dan menyimpannya di variabel 'total'
+6. print variabel 'total'
+7. membuat algoritma kembalian, jika input pembayaran kurang maka return 'pembayaran kurang'
+8. input pembayaran
+9. print kembalian

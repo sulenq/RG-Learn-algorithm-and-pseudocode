@@ -1,0 +1,4 @@
+order makanan/minuman via online (shopeefood)
+
+1.membbuat varible makanan/minuman, jmlh_makanan, hrg_makanan
+

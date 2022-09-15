@@ -1,0 +1,9 @@
+Hospital Admission (proses penerimaan data diri pasien
+
+1) datang ke tempat administrasi
+2) mengambil formulir pendaftaran pasien
+3) ngecheck apakah memiliki asuransi atau tidak
+    >> jika ada, memasukan nama, alamat, nama asuransi
+    >> jika tidak ada, memasukkan nama, alamat, NIK
+4) 
+membuat variable asuransi, nm_pasien, almt_pasien, nik_pasien, 

@@ -1,0 +1,13 @@
+Sistem Kasir App
+
+1. Inisialisasi variabel nama_barang, banyak_barang, harga_satuan, jumlah_beli, total_harga, diskon, uang_cash, kembalian
+2. Masukkan jumlah_barang yang dibeli
+3. Melakukan perulangan untuk jumlah_barang yg dibeli
+4. Masukkan barang ke -i
+5. Menginput nama_barang yang disimpan pada array nama_barang
+6. Menginput banyak_barang yang disimpan pada array banyak_barang
+7. Menginput harga_satuan yang disimpan pada array harga_satuan  
+8. Menjumlahkan dan menampilkan total_harga barang
+9. Melakukan pengkondisian jika barang ada diskon
+10. Menampilkan keterangan jumlah yang harus dibayar  
+11. 

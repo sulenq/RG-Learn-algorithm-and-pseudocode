@@ -1,0 +1,35 @@
+Algoritma kalkulator + - : * untuk 2 inputan
+
+1.  Membuat 2 variabel untuk inputan
+
+READ AND WRITE 'angka1' with number
+READ AND WRITE 'angka2' with number
+
+2. Menginisialisasi variabel hasil
+READ 'hasil' with number 0
+
+3. Memilih operator "+" "-" ":" "*" dan menyimpan pada variabel 'operator'
+READ AND WRITE 'operator' with string
+
+4. Membuat procedure untuk mengkalkulasi hasil.
+
+PROCEDURE calculate(angka1, angka2, operator, hasil)
+  IF 'operator' equal '+'
+    DO hasil = angka1 + angka2
+    STORE 'hasil'
+  IF ELSE 'operator' equal '-'
+    DO hasil = angka 1 - angka2
+    STORE 'hasil'
+  IF ELSE 'operator' equal '*'
+    DO hasil = angka 1 * angka2
+    STORE 'hasil'
+  IF ELSE 'operator' equal ':'
+    DO hasil = angka 1 / angka2
+    STORE 'hasil'
+  ELSE 
+    DO hasil = 'operator tidak ditemukan!'
+    STORE 'hasil'
+  PRINT 'hasil'
+END PROCEDURE
+
+CALL calculate(angka1, angka2, operator, hasil)

@@ -1,0 +1,13 @@
+//Proses order makanan via online.
+
+1. Buka aplikasi
+2. Buka menu makanan
+3. Pilih makanan dengan menekan tombol (+) untuk menambahkan ke keranjang
+(menambahkan variabel keranjang)
+(variabel keranjang akan menampung data : (nama_makanan, harga_makanan))
+4. Pilih metode pembayaran tunai/non-tunai
+(Membuat variabel order yang berisi jenis_pembayaran, status)
+5. Menunggu mendapatkan driver untuk mengambil dan mengantar makanan
+6. Driver sampai
+7. Bila saat pembayaran memilih tunai, maka melakukan pembayaran langsung ke driver
+8. selesai
